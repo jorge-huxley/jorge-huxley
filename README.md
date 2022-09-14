@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jorge-huxley
 - 👀 I’m interested in robotics and machine learning.
-- 🌱 I’m currently learning mechanical engineering.
-- 💞️ I’m looking to collaborate on robot projects.
+- 🌱 I’m currently working as a mechatronics engineer.
+- 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me: jorgearsilva.p@gmail.com
 
 <!---
